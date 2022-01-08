@@ -91,7 +91,7 @@ These students can be identified by searching for identical attributes
 that characterize each student, as shown in the annexed R file.
 # Algorithm used :
 Libraries used are numpy, panda, matplotlib(paylot and inline), statsmodels, seaborn and LableEncoder. 
-Renamed all the column after merging the two dataset, and convert final_score to categorical variable (Good:15~20 Fair:10~14 Poor:0~9) for easy analysis.
+Renamed all the column after merging the two dataset, and convert final_score to categorical variable (Good:15-20 Fair:10-14 Poor:0-9) for easy analysis.
 
 Algorithm used are Logistic Regression, Support Vector Machine, Decision Tree and Random forest model. Among the above used algorithm model Logistic Regression has the highest accuracy of 87.57%.
 
